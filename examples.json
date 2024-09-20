@@ -1,0 +1,18 @@
+{
+    "website": {
+        "usage_verify-embed": "{0}\n{0} [title]\n{0} [description] \n{0} [color]\n{0} [button_text]\n{0} [footer]\n{0} [standalone]\n{0} [skip_button]\n{0} [why_button]\n{0} [title] [description] [color] [button_text] [footer] [standalone] [skip_button] [why_button]",
+        "usage_info": "{0} [user]",
+        "usage_deluser": "{0} [user]",
+        "usage_blacklist": "{0} [user]",
+        "usage_unblacklist": "{0} [user]",
+        "usage_whitelist": "{0} [user]",
+        "usage_pull": "{0}\n{0} [user]\n{0} [limit]\n{0} [role]",
+        "examples_verify-embed": "{0}\n{0} My verification title\n{0} My description\n{0} Blue\n{0} Verify Today\n{0} My footer\n{0} True\n{0} False\n{0} False\n{0} My verification title My description Blue Verify Today My footer True False False",
+        "examples_info": "{0} 720820224877789204",
+        "examples_deluser": "{0} 720820224877789204",
+        "examples_blacklist": "{0} 720820224877789204",
+        "examples_unblacklist": "{0} 720820224877789204",
+        "examples_whitelist": "{0} 720820224877789204",
+        "examples_pull": "{0}\n{0} 720820224877789204\n{0} 999\n{0} @Verified"
+    }
+}
