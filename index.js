@@ -66,7 +66,7 @@ module.exports.webLangs = {
   no: { name: "Norsk", flag: "no" },
   pl: { name: "Polski", flag: "pl" },
   "pt-BR": { name: "Português do Brasil", flag: "br" },
-  sr: { name: "Српска", flag: "sr" },
+  sr: { name: "Српски", flag: "sr" },
   sv: { name: "Svenska", flag: "sv" },
   th: { name: "Thai", flag: "th" },
   vi: { name: "Tiếng Việt", flag: "vn" },
