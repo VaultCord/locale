@@ -1,7 +1,7 @@
 {
     "info_description": "Egy ellenőrzött tag adatainak lekérdezése.",
     "verify-embed_description": "Ellenőrző üzenet küldése és testreszabása.",
-    "deluser_description": "Tag törlése, hasznos a régi \„alt\” fiókok törléséhez.",
+    "deluser_description": "Tag törlése, hasznos a régi \"alt\" fiókok törléséhez.",
     "blacklist_description": "Tagok és metaadataik feketelistázása.",
     "unblacklist_description": "Tag eltávolítása a feketelistáról.",
     "whitelist_description": "Tagok és metaadataik fehérlistázása.",
@@ -66,7 +66,7 @@
     "landing_welcome_messages_title": "Üdvözöljük az új tagokat stílusosan",
     "landing_welcome_messages_description": "Készítsd el saját ellenőrző oldaladat, egyéni betűtípussal, színekkel, effektekkel, egérkurzorral, valamint testreszabható háttérképpel!",
     "landing_welcome_messages_learn": "Tudjon meg többet a Testreszabás ellenőrzéséről",
-    "landing_embed_messages_title": "Könnyen hozzon létre beágyazásokat a szerverére!”,
+    "landing_embed_messages_title": "Könnyen hozzon létre beágyazásokat a szerverére!",
     "landing_embed_messages_description": "Illusztrálja kreativitását a beágyazásokban a VaultCord egyszerű testreszabásával, és küldje el azt bármelyik preferált csatornára.",
     "landing_embed_messages_learn": "További információk a beágyazott üzenetekről",
     "embeder": "Üzenetek beágyazása",
@@ -111,11 +111,11 @@
     "rights": "© {0} Minden jog fenntartva.",
     "Premium": "Prémium",
     "landing_get_started": "Kezdje el",
-    "landing_resources": "Erőforrások”,
+    "landing_resources": "Erőforrások",
     "browser_features": "Böngészés funkciók",
     "premium_subscribe": "Subscribe to {0}",
     "premium_faq_question_5": "Kaphatok visszatérítést a VaultCord tagsági előfizetésemért??",
-    "premium_faq_answer_5": "Igen, a VaultCord tagsági előfizetések bizonyos feltételek mellett visszatéríthetők. A visszatérítés csak akkor lehetséges, ha a napi krediteken túl semmilyen funkciót nem használtál. Ha a tagság bármely más funkcióját használta, nem jogosult visszatérítésre. Ezen kívül visszatérítés csak az eredeti előfizetés megvásárlásától számított 7 napon belül kérhető.”,
+    "premium_faq_answer_5": "Igen, a VaultCord tagsági előfizetések bizonyos feltételek mellett visszatéríthetők. A visszatérítés csak akkor lehetséges, ha a napi krediteken túl semmilyen funkciót nem használtál. Ha a tagság bármely más funkcióját használta, nem jogosult visszatérítésre. Ezen kívül visszatérítés csak az eredeti előfizetés megvásárlásától számított 7 napon belül kérhető.",
     "premium_faq_answer_6": "A világ bármely országából elfogadjuk az összes főbb hitelkártyát. Ezenkívül támogatjuk a PayPal-on keresztül történő fizetést is, így kényelmesen és biztonságosan használhatja PayPal-fiókját a prémium bot vásárlásához.",
     "landing_join_over": "Csatlakozz több mint {0} taghoz a VaultCordon"
 }
