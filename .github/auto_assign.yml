@@ -1,0 +1,9 @@
+addReviewers: true
+reviewers:
+  - wnelson03
+  
+skipKeywords:
+  - crowdin
+
+numberOfReviewers: 0
+addAssignees: author
